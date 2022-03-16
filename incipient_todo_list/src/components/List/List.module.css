@@ -1,0 +1,38 @@
+.doneItem {
+    box-sizing: border-box;
+    background-color:greenyellow;
+    display: block;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+    
+
+}
+.list {
+    margin: 10px;
+    padding: 10px;
+    list-style-type: none;
+    box-sizing: border-box; 
+    background-color: darkslateblue;
+}
+.listitem{
+    color: white;
+    font-size: 20px;
+}
+.btn{
+    cursor: pointer;
+    background-color: tomato;
+    margin:5px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 20px;
+}
+.edit{
+    border: 1px solid white;
+    border-radius:5px;
+    width: 100px;
+    height: 30px;
+    
+}
+

@@ -1,0 +1,12 @@
+.userinput{
+    display: flex;
+    justify-content: center;
+    margin:0 auto;
+    margin-top: 10px;
+    width: 50vh;
+    align-items: center;
+}
+.box{
+    box-sizing: border-box;
+}
+

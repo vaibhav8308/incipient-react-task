@@ -1,0 +1,12 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:9em;
+    text-align: center;
+    color: white;
+    margin: 10px;
+    font-size:30px; ;
+    border-radius: 10px;
+    
+}
